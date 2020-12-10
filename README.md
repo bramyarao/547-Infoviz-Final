@@ -37,5 +37,4 @@ Run all the jupyter notebooks. Outputs will be automatically saved to the HTMLs 
 Run the index.html file on a live server. Alternately it will show on the Github pages: https://bramyarao.github.io/547-Infoviz-Final/
 </div>
 
-india_states.geojson - NEED TO ADD ABOUT THIS
 
