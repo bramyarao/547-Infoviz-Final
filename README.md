@@ -5,9 +5,9 @@ Kattie Sepehri, Unma Desai, Ramya Rao Basava<br/>
 Department of Computer Science, <br/>
 University of British Columbia, Vancouver.
 <br/>
-<br/>
 
 ### This work is copyrighted.
+<br/>
 
 ## Code Programming Details
 <div style="text-align: justify">
