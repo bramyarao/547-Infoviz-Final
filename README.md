@@ -7,6 +7,8 @@ University of British Columbia, Vancouver.
 <br/>
 <br/>
 
+### This work is copyrighted.
+
 ## Code Programming Details
 <div style="text-align: justify">
 For this project we used Python 3 programming language and the Plotly library to create the visualizations. References have been provided in the code as required. These visualizations are then saved as .html files (for interactive visualizations) or .png figures (for static visualizations) to be embedded in the main webpage created using html and css. The webpage is an explainer article about the project and illustrates all the visualizations designed. 
